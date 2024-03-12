@@ -1,0 +1,3 @@
+2024-03-12T12:54:43.635Z  INFO 23704 --- [main] noj.com.elk.ElkApplicationTests          : Starting ElkApplicationTests using Java 17.0.7 with PID 23704 (started by reg_jethiakane in D:\elk)
+2024-03-12T12:54:43.636Z  INFO 23704 --- [main] noj.com.elk.ElkApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2024-03-12T12:54:44.379Z  INFO 23704 --- [main] noj.com.elk.ElkApplicationTests          : Started ElkApplicationTests in 0.925 seconds (process running for 1.469)

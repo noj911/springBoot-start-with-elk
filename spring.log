@@ -1,0 +1,19 @@
+2024-03-12T09:05:00.396Z  INFO 19612 --- [main] noj.com.elk.ElkApplication               : Starting ElkApplication using Java 17.0.7 with PID 19612 (D:\elk\target\classes started by reg_jethiakane in D:\elk)
+2024-03-12T09:05:00.398Z  INFO 19612 --- [main] noj.com.elk.ElkApplication               : No active profile set, falling back to 1 default profile: "default"
+2024-03-12T09:05:00.802Z  INFO 19612 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2024-03-12T09:05:00.807Z  INFO 19612 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-12T09:05:00.807Z  INFO 19612 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2024-03-12T09:05:00.856Z  INFO 19612 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-12T09:05:00.856Z  INFO 19612 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 437 ms
+2024-03-12T09:05:01.046Z  INFO 19612 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2024-03-12T09:05:01.050Z  INFO 19612 --- [main] noj.com.elk.ElkApplication               : Started ElkApplication in 0.858 seconds (process running for 1.113)
+2024-03-12T09:05:26.585Z  INFO 19612 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-12T09:05:26.586Z  INFO 19612 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-12T09:05:26.587Z  INFO 19612 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-03-12T09:05:26.609Z  INFO 19612 --- [http-nio-8090-exec-1] noj.com.elk.Controller                   : Echo Triggered
+2024-03-12T12:51:26.648Z  INFO 19540 --- [main] noj.com.elk.ElkApplicationTests          : Starting ElkApplicationTests using Java 17.0.7 with PID 19540 (started by reg_jethiakane in D:\elk)
+2024-03-12T12:51:26.649Z  INFO 19540 --- [main] noj.com.elk.ElkApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2024-03-12T12:51:26.702Z  INFO 26504 --- [main] noj.com.elk.ElkApplicationTests          : Starting ElkApplicationTests using Java 17.0.7 with PID 26504 (started by reg_jethiakane in D:\elk)
+2024-03-12T12:51:26.703Z  INFO 26504 --- [main] noj.com.elk.ElkApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2024-03-12T12:51:27.500Z  INFO 19540 --- [main] noj.com.elk.ElkApplicationTests          : Started ElkApplicationTests in 1.044 seconds (process running for 1.68)
+2024-03-12T12:51:27.518Z  INFO 26504 --- [main] noj.com.elk.ElkApplicationTests          : Started ElkApplicationTests in 1.003 seconds (process running for 1.638)
